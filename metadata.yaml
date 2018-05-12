@@ -1,0 +1,38 @@
+_repo: Strange-Alliance_28047
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McNutt, Charles
+    gutenberg_agent_id: '33101'
+    url: http://www.gutenberg.org/2009/agents/33101
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walton, Bryce
+    alias: O'Hara, Kenneth
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '33100'
+    url: http://www.gutenberg.org/2009/agents/33100
+    wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
+description: In this classic tale of suspense and horror from Bryce Walton, brilliant
+  professor Dr. Spechaug has staked his career on his unique insight into the pathologies
+  of the human mind. But will he be able to save himself from the dark curse that
+  lingers within?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Psychological fiction'
+title: Strange Alliance
+url: http://www.gutenberg.org/ebooks/28047
